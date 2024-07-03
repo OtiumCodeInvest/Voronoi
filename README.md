@@ -15,7 +15,7 @@ $ make
 $ mkdir build
 $ cd build
 $ cmake -DCMAKE_GENERATOR_PLATFORM=x64 ..
-$ Open plainH264.sln project in Visual Studio and build
+$ Open voronoi.sln project in Visual Studio and build
 ```
 
 Alternative open as folder
