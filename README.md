@@ -20,3 +20,7 @@ $ Open voronoi.sln project in Visual Studio and build
 
 Alternative open as folder
 
+
+
+https://github.com/OtiumCodeInvest/Voronoi/assets/98739117/dc10223a-2d31-4985-b8fc-97a1860ed9c5
+
